@@ -1,7 +1,7 @@
 onfigure my domain zone:
-# www --> 914-lb-01 3.83.192.251
-# web-01 --> 914-web-01 18.205.38.219
-# web-02 --> 914-web-02 34.138.16.188
+# www --> 299844-lb-01 100.25.151.104
+# web-01 --> 29984-web-01 3.236.13.101
+# web-02 --> 29984-web-02 3.84.222.131
 
 # -- To be evaluated --
 # domain_information () {
