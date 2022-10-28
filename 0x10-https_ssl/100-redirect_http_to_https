@@ -42,8 +42,8 @@ listen mahi-uha
         bind :80
         mode http
         balance roundrobin
-        server 29984-web-01 3.236.13.101:80 check
-	server 29984-web-02 3.84.222.131:80 check
+        server 971-web-01 35.227.5.245:80 check
+        server 971-web-02 3.236.14.41:80 check
 frontend www-http
         bind :80
         reqadd X-Forwarded-Proto:\ http
